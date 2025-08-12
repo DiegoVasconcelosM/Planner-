@@ -8,7 +8,7 @@ API monolítica RESTFULL desenvolvida com Spring Boot. Esta API gerencia a lógi
 
 Estado 🏗️
 
-- Versão base: em andamento!
+- Versão base: em construção!
 - Em melhoria: 🚀
 
 ### Tecnologias usadas
